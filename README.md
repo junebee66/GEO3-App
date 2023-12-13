@@ -1,6 +1,6 @@
 # GEO3-App
-<img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/GEO3_App_FixedLogo.png" width="40%">
-<img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/Map.png" width="40%">
+<img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/GEO3_App_FixedLogo.png" width="30%">
+<img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/Map.png" width="30%">
 This software allows users to see their usual content on moblie devices coming out into their reality with the three dimensional visual orientation. Without buying a 3D TV, purchasing 3D produced films, wearing VR headset, or only see augumented reality in certain apps. AVR filter is a lightweight algorithm on mobile screens that runs across all platforms to bring the internet world into the real life. 
 
 **Click here for..**
