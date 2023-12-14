@@ -23,7 +23,7 @@ Once you turn on this software on your mobile devices (phones, or tablets), you 
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > In this view you are able to record vidoes in 3D - sptial video. 
 In the current version,only static 3D models are captured. The animating 3D models will be updated. </br>
-<img src="https://github.com/junebee66/molab-2023/raw/main//Week06/source/export.gif" width="30%">
+<img src="https://github.com/junebee66/molab-2023/raw/main/Week06/source/export.gif" width="30%">
 
 </br>
 
@@ -31,6 +31,7 @@ In the current version,only static 3D models are captured. The animating 3D mode
 >[📀 Code Here](https://github.com/)
 > In this view you can view the model you just created
 and be able to change its texture with the AI integration.
+<img src="https://github.com/junebee66/molab-2023/raw/main/Week08/source/sand.gif" width="30%">
 
 
 **2️⃣ Gallery View**</br>
