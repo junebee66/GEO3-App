@@ -1,7 +1,7 @@
 # GEO3-App
 <img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/GEO3_App_FixedLogo.png" width="30%">
 <img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/Map.png" width="30%">
-<img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/MU_Outdoor.jpg" width="30%">
+<img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/MU_Outdoor.jpg" width="100%">
 This IOS mobile app is a cloud paltform for sharing sptial videos and trade geospatial data
 
 **Click here for..**
