@@ -37,12 +37,22 @@ Once you turn on this software on your mobile devices (phones, or tablets), you 
 <img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/particle.gif" width="30%">
 </br>
 
-### **🛠️ Things I learned in This Project**
-Functionality and UI is comletely different. I should not try to code them at the same time.
+## **🛠️ Things I learned in This Project**
+1. Functionality and UI is comletely different. I should not try to code them at the same time.
+2. I really enjoy the coding sessions with professor John Henry. I feel like when I'm coiding on my own and encounter an issue. I usually kept looking at it and keep thinking there's someting wrong with this. However, in the offic hour, when Professor JohnHenry looks at it, he can identify that it is a structue and communication problem between my files. I find that extremely useful.
+3. 3D is hard. The way apple complie 3d object is very different than I used to work with, so even a little thing as assigning texture can be extremely complicated and indirect. This is my first time writing a pretty low level (close to backend code) this makes it very hard when I need to declare many detail settings. When the project gets larger, it is very hard to keep on track. 
 
 ## **🛑Challenges & Struggles**
+**1. Scan and transfer Object**</br>
 
+**2. Complie texture with mld and mtl texture**</br>
+
+**3. swift doesn't read pooint cloud files**</br>
+
+**3. Sync with Firebase**</br>
 
 ## **☁️ Future Development Envision**
+**Map View Call Out**</br>
+**3D model scan to point cloud**</br>
 
 <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
