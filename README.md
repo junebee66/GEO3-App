@@ -75,7 +75,7 @@ This is where I spent the most time. Once I was able to pass the 3d model to vie
 **3. Sync with Firebase**</br>
 
 ## **☁️ Future Development Envision**
-**Map View Call Out**</br>
-**3D model scan to point cloud**</br>
+1- Map View Call Out**</br>
+2- 3D model scan to point cloud**</br>
 
 <img src="https://github.com/junebee66/molab-2023/raw/main//Week11/Sources/3DMap_Short.gif" width="70%">
