@@ -16,25 +16,25 @@ Once you turn on this software on your mobile devices (phones, or tablets), you 
 **1️⃣ Scan Video Capure**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
-<img src="https://github.com/junebee66/molab-2023/raw/main//Week06/source/export.gif" width="100%">
+<img src="https://github.com/junebee66/molab-2023/raw/main//Week06/source/export.gif" width="30%">
 </br>
 
 **2️⃣ Gallery View**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
-<img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/ModelViews.gif" width="100%">
+<img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/ModelViews.gif" width="30%">
 </br>
 
 **2️⃣ Map View**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
-<img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/3DMap.gif" width="100%">
+<img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/3DMap.gif" width="30%">
 </br>
 
 **2️⃣ Setting View**</br>
 >[📀 Code here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > This page shows all settings related to your google account and you can also make changes here. By signing into Google, you already create an account in this app.</br>
-<img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/particle.gif" width="100%">
+<img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/particle.gif" width="30%">
 </br>
 
 ### **🛠️ Things I learned in This Project**
@@ -44,3 +44,5 @@ Functionality and UI is comletely different. I should not try to code them at th
 
 
 ## **☁️ Future Development Envision**
+
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
