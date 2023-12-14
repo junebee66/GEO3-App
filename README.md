@@ -1,10 +1,16 @@
 # GEO3-App
 <img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/MU_Outdoor.jpg" width="100%">
-GEO3 is an IOS mobile app that provides a cloud paltform for sharing sptial videos and trade geospatial data. In this app you can record videos in 3D orientation, view other's intriguiing 3D videos, and trade your video as either geospatial data or or motion data for machine training purposes. 
+GEO3 is an IOS mobile app that provides a cloud paltform for sharing sptial videos and trade geospatial data. 
+Spatial video is the next media format after .mp4 videos. In this app you can record videos in 3D orientation, 
+view other's intriguiing 3D videos, 
+and trade your video as either geospatial data 
+or or motion data for machine training purposes. 
+I planned to futther develop this after class.
 
 ### **🛑 DISCLAIMER 🛑**
 ⚫️ This app is currently under development functions may run into issues, feel free to update issues in repo</br>
 ⚫️ The documentation is still work in progress
+⚫️ Talk about functions first then the problems encounter.
 
 <img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/GEO3_Feature_noLogo.png" width="100%">
 
@@ -15,27 +21,33 @@ Once you turn on this software on your mobile devices (phones, or tablets), you 
 
 **1️⃣ Scan Video Capure**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
-> This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
+> In this view you are able to record vidoes in 3D - sptial video. 
+In the current version,only static 3D models are captured. The animating 3D models will be updated. </br>
 <img src="https://github.com/junebee66/molab-2023/raw/main//Week06/source/export.gif" width="30%">
 
 </br>
 
+**2️⃣ Model View**
+>[📀 Code Here](https://github.com/)
+> In this view you can view the model you just created
+and be able to change its texture with the AI integration.
+
+
 **2️⃣ Gallery View**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
-> This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses
+> In this view, you are able to view all spatial video you have recorded in the past and also change its texture with ai.
 <img src="https://github.com/junebee66/molab-2023/raw/main/Week11/Sources/ModelViews.gif" width="30%">
 <img src="https://github.com/junebee66/molab-2023/raw/main/Week11/Sources/slidegif.gif" width="30%">
 
 
-
-
-**2️⃣ Map View**</br>
+**3️⃣ Map View**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
 <img src="https://github.com/junebee66/molab-2023/raw/main/Week11/Sources/3DMap_Short_1.gif" width="30%">
 </br>
 
-**2️⃣ Setting View**</br>
+
+**4️⃣ Setting View**</br>
 >[📀 Code here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > This page shows all settings related to your google account and you can also make changes here. By signing into Google, you already create an account in this app.</br>
 <img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/particle.gif" width="30%">
