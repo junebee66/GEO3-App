@@ -43,7 +43,7 @@ and be able to change its texture with the AI integration.
 
 **3️⃣ Map View**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
-> This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
+> Here you can view all the shared spatial video by others based on the geolocation of the videos created. If you want, there's also an option to trade (sell and buy other's) geolocational data or sell it as motion data for VR machine learning.  </br>
 <img src="https://github.com/junebee66/molab-2023/raw/main/Week11/Sources/3DMap_Short_1.gif" width="30%">
 </br>
 
