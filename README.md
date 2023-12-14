@@ -44,8 +44,10 @@ Once you turn on this software on your mobile devices (phones, or tablets), you 
 
 ## **🛑Challenges & Struggles**
 **1. Scan and transfer Object**</br>
+trying to sync up all the obj across the platform has been quite complicated because the the project is set up with multiple struct hierarchy. Professor John Henry helped me figured it out how to pass it from the scan to view model struct.
 
 **2. Complie texture with mld and mtl texture**</br>
+This is where I spent the most time. Once I was able to pass the 3d model to viewing port, I realized the model doesn't have a texture. At first I thought it is because I didn't assign texture to it but later figure out that textue files are pretty messy 
 
 **3. swift doesn't read pooint cloud files**</br>
 
