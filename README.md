@@ -17,18 +17,20 @@ Once you turn on this software on your mobile devices (phones, or tablets), you 
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
 <img src="https://github.com/junebee66/molab-2023/raw/main//Week06/source/export.gif" width="30%">
+
 </br>
 
 **2️⃣ Gallery View**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
-<img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/ModelViews.gif" width="30%">
-</br>
+<img src="https://github.com/junebee66/molab-2023/raw/main/Week11/Sources/ModelViews.gif" width="30%">
+<img src="https://github.com/junebee66/molab-2023/raw/main/Week11/Sources/slidegif.gif" width="30%">
+
 
 **2️⃣ Map View**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
 > This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
-<img src="https://github.com/junebee66/molab-2023/raw/main/Week09/source/3DMap.gif" width="30%">
+<img src="https://github.com/junebee66/molab-2023/raw/main/Week11/Sources/3DMap_Short_1.gif" width="30%">
 </br>
 
 **2️⃣ Setting View**</br>
@@ -43,11 +45,14 @@ Once you turn on this software on your mobile devices (phones, or tablets), you 
 3. 3D is hard. The way apple complie 3d object is very different than I used to work with, so even a little thing as assigning texture can be extremely complicated and indirect. This is my first time writing a pretty low level (close to backend code) this makes it very hard when I need to declare many detail settings. When the project gets larger, it is very hard to keep on track. 
 
 ## **🛑Challenges & Struggles**
+
 **1. Scan and transfer Object**</br>
 trying to sync up all the obj across the platform has been quite complicated because the the project is set up with multiple struct hierarchy. Professor John Henry helped me figured it out how to pass it from the scan to view model struct.
+![scannedObj](https://github.com/junebee66/GEO3-App/assets/81065927/6967748b-f555-4c93-9eda-b294c5d7d88f)
 
 **2. Complie texture with mld and mtl texture**</br>
 This is where I spent the most time. Once I was able to pass the 3d model to viewing port, I realized the model doesn't have a texture. At first I thought it is because I didn't assign texture to it but later figure out that textue files are pretty messy 
+<img width="440" alt="texture_issue" src="https://github.com/junebee66/GEO3-App/assets/81065927/ed9cc717-8f77-415c-8a97-e80fb4657dbd">
 
 **3. swift doesn't read pooint cloud files**</br>
 
@@ -57,4 +62,4 @@ This is where I spent the most time. Once I was able to pass the 3d model to vie
 **Map View Call Out**</br>
 **3D model scan to point cloud**</br>
 
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+<img src="https://github.com/junebee66/molab-2023/raw/main//Week11/Sources/3DMap_Short.gif" width="70%">
