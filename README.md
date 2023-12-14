@@ -70,7 +70,7 @@ This is where I spent the most time. Once I was able to pass the 3d model to vie
 <img width="440" alt="texture_issue" src="https://github.com/junebee66/GEO3-App/assets/81065927/ed9cc717-8f77-415c-8a97-e80fb4657dbd">
 
 **3. swift doesn't read pooint cloud files**</br>
-<img src="https://github.com/junebee66/molab-2023/raw/main/Week08/source/pointcloud.gif" width="30%">
+<img src="https://github.com/junebee66/molab-2023/raw/main/Week06/source/pointcloud.gif" width="30%">
 
 **3. Sync with Firebase**</br>
 
