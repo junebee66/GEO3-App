@@ -22,9 +22,11 @@ Once you turn on this software on your mobile devices (phones, or tablets), you 
 
 **2️⃣ Gallery View**</br>
 >[📀 Code Here](https://github.com/junebee66/AVR-Filter/weglAnaglyph/youtube.html)</br>
-> This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses </br>
+> This is a virtual 3D scene with a YouTube UI Mockup. The color of the scene is distorted with the Anaglyph Effect, so users are able to see a 3D UI when they wear Anaglyph glasses
 <img src="https://github.com/junebee66/molab-2023/raw/main/Week11/Sources/ModelViews.gif" width="30%">
 <img src="https://github.com/junebee66/molab-2023/raw/main/Week11/Sources/slidegif.gif" width="30%">
+
+
 
 
 **2️⃣ Map View**</br>
