@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22155" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22131"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController storyboardIdentifier="main" id="BYZ-38-t0r" customClass="ViewController" customModule="D3ModelViewer" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Asset 1@4x" translatesAutoresizingMaskIntoConstraints="NO" id="uhM-1s-72I">
+                                <rect key="frame" x="57" y="298" width="300" height="300"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="300" id="2dH-5Y-uTr"/>
+                                    <constraint firstAttribute="width" constant="300" id="PmT-FW-e8Q"/>
+                                </constraints>
+                            </imageView>
+                            <sceneKitView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cQE-1s-aSP">
+                                <rect key="frame" x="0.0" y="48" width="414" height="848"/>
+                            </sceneKitView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.073975695470000005" green="0.097603733440000007" blue="0.12990294890000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="cQE-1s-aSP" secondAttribute="trailing" id="0fD-Hr-aEa"/>
+                            <constraint firstItem="cQE-1s-aSP" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="3Si-4J-Vu3"/>
+                            <constraint firstItem="uhM-1s-72I" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="8hd-4j-1u2"/>
+                            <constraint firstItem="uhM-1s-72I" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Fb1-TZ-ppY"/>
+                            <constraint firstItem="cQE-1s-aSP" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Jh7-Yb-hUp"/>
+                            <constraint firstAttribute="bottom" secondItem="cQE-1s-aSP" secondAttribute="bottom" id="VoN-Np-G1M"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="sceneView" destination="cQE-1s-aSP" id="unJ-ry-V63"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="133" y="117"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Asset 1@4x" width="2416" height="2996"/>
+    </resources>
+</document>

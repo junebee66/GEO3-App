@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "JuneBee_app_logo_for_an_AR_app_that_hosts_3D_capture_video_like_2e8f68e8-6f96-43c0-9d70-bb0093f6db69.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

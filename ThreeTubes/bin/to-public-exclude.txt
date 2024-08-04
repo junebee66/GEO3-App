@@ -1,0 +1,7 @@
+.DS_Store
+.git
+node_modules
+xcuserdata
+GoogleService-Info.plist
+z-private
+z-retired

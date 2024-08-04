@@ -1,0 +1,90 @@
+bin/to-public.sh
+v --delete --dry-run
+rsync from ../
+        to ../../98-MoGallery
+building file list ... done
+.gitignore
+98-MoGallery.code-workspace
+LICENSE
+README.md
+MoGallery/
+MoGallery/MoGallery.xcodeproj/
+MoGallery/MoGallery.xcodeproj/project.pbxproj
+MoGallery/MoGallery.xcodeproj/project.xcworkspace/
+MoGallery/MoGallery.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+MoGallery/MoGallery.xcodeproj/project.xcworkspace/xcshareddata/
+MoGallery/MoGallery.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+MoGallery/MoGallery.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+MoGallery/MoGallery.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+MoGallery/MoGallery.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/configuration/
+MoGallery/MoGallery/
+MoGallery/MoGallery/AppModel.swift
+MoGallery/MoGallery/Info.plist
+MoGallery/MoGallery/License.txt
+MoGallery/MoGallery/MainView.swift
+MoGallery/MoGallery/MoGallery.entitlements
+MoGallery/MoGallery/MoGalleryApp.swift
+MoGallery/MoGallery/Assets.xcassets/
+MoGallery/MoGallery/Assets.xcassets/Contents.json
+MoGallery/MoGallery/Assets.xcassets/AccentColor.colorset/
+MoGallery/MoGallery/Assets.xcassets/AccentColor.colorset/Contents.json
+MoGallery/MoGallery/Assets.xcassets/AppIcon.appiconset/
+MoGallery/MoGallery/Assets.xcassets/AppIcon.appiconset/Contents.json
+MoGallery/MoGallery/Assets.xcassets/AppIcon.appiconset/IMG_4837-icon.png
+MoGallery/MoGallery/Auth/
+MoGallery/MoGallery/Auth/AppSettingView.swift
+MoGallery/MoGallery/Auth/LobbyModel.swift
+MoGallery/MoGallery/Auth/LobbyView.swift
+MoGallery/MoGallery/Auth/LoginCheckView.swift
+MoGallery/MoGallery/Auth/LoginView.swift
+MoGallery/MoGallery/Auth/UserModel.swift
+MoGallery/MoGallery/Camera/
+MoGallery/MoGallery/Camera/CameraCapture.swift
+MoGallery/MoGallery/Camera/CameraModel.swift
+MoGallery/MoGallery/Camera/CameraView.swift
+MoGallery/MoGallery/Commons/
+MoGallery/MoGallery/Commons/CachedImageManager.swift
+MoGallery/MoGallery/Commons/GoogleSignInButton.swift
+MoGallery/MoGallery/Commons/LocationManager.swift
+MoGallery/MoGallery/Commons/StringMisc.swift
+MoGallery/MoGallery/Commons/ThumbnailView.swift
+MoGallery/MoGallery/Commons/ViewfinderView.swift
+MoGallery/MoGallery/Commons/getElapsedInterval.swift
+MoGallery/MoGallery/Commons/imageUtils.swift
+MoGallery/MoGallery/Photos/
+MoGallery/MoGallery/Photos/PhotoAsset.swift
+MoGallery/MoGallery/Photos/PhotoAssetCollection.swift
+MoGallery/MoGallery/Photos/PhotoCollection.swift
+MoGallery/MoGallery/Photos/PhotoCollectionView.swift
+MoGallery/MoGallery/Photos/PhotoDetailView.swift
+MoGallery/MoGallery/Photos/PhotoItemView.swift
+MoGallery/MoGallery/Photos/PhotoLibrary.swift
+MoGallery/MoGallery/Photos/PhotosModel.swift
+MoGallery/MoGallery/Preview Content/
+MoGallery/MoGallery/Preview Content/Preview Assets.xcassets/
+MoGallery/MoGallery/Preview Content/Preview Assets.xcassets/Contents.json
+MoGallery/MoGallery/Store/
+MoGallery/MoGallery/Store/GalleryModel.swift
+MoGallery/MoGallery/Store/GalleryPickerView.swift
+MoGallery/MoGallery/Store/GalleryView.swift
+MoGallery/MoGallery/Store/MediaDetailView.swift
+MoGallery/MoGallery/Store/MediaModel.swift
+MoGallery/MoGallery/Store/MetaModel.swift
+bin/
+bin/a-release.sh
+bin/build.sh
+bin/git-init.sh
+bin/pub-html.sh
+bin/to-public-exclude.txt
+bin/to-public.sh
+setup/
+setup/firebase-package-select.jpg
+setup/framework-installed.jpg
+setup/info-URL-types-firebase.jpg
+setup/info-photo-lib.jpg
+setup/set-bundle-id.jpg
+setup/to-public-init.txt
+
+sent 2667 bytes  received 506 bytes  6346.00 bytes/sec
+total size is 1888322  speedup is 595.12
+

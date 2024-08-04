@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>849824846297-hlf85rnlenhimvl8gt5rqu4l7tubsqaf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.849824846297-hlf85rnlenhimvl8gt5rqu4l7tubsqaf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3eEp98RVpa1ZWjg93-YrjGdqEw4jRrxI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>849824846297</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.company.3tubes</string>
+	<key>PROJECT_ID</key>
+	<string>tubes-df466</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tubes-df466.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:849824846297:ios:530997c039a850ae7bc9c8</string>
+	<key>DATABASE_URL</key>
+	<string>https://tubes-df466-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
